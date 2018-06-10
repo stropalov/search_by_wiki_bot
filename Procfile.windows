@@ -1,1 +1,1 @@
-web: python wiki_bot.py
+worker: python wiki_bot.py
